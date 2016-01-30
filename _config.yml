@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://alvarosnicket.github.io
+title: metroficciones
+paginate: 5
