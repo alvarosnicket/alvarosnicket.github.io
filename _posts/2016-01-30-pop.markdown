@@ -1,0 +1,6 @@
+---
+published: true
+title: POP!
+layout: post
+---
+cuatro palabras: simple
