@@ -3,8 +3,6 @@ published: true
 title: elipsis
 layout: post
 ---
-*(breve idea surgida a raíz de la clase del _02/02/2016_)*
+*(breve idea surgida a raíz de la clase del **02/02/2016**)*
 Si la elipsis cinematográfica solo se ha logrado construir y sobre todo entender, como parte de un  proceso histórico (es decir que una persona de 1910 no entendería la situación de un personaje subiendo y bajando de un coche como consecuencia de algo omitido)...  
-                                                                                                 ¿llegaremos a un punto en el que únicamente con un segundo de inicio, y un segundo de final, sabremos deducir todo el tiempo que ha pasado entre esos dos instantes? 
-
-                                        
+                                                                                                 ¿llegaremos a un punto en el que únicamente con un segundo de inicio, y un segundo de final, sabremos deducir todo el tiempo que ha pasado entre esos dos instantes?
