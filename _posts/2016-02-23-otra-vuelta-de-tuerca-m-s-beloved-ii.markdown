@@ -6,10 +6,11 @@ layout: post
 Privilegio blanco
 *white privilege*
 
-refers to the myriad of social advantages, benefits, and courtesies that come with being a member of the dominant race.
+ refers to the myriad of social advantages, benefits, and courtesies that come with being a member of the dominant race.
 
 (Delgado, Richard; Stefancic, Jean (2001). Critical Race Theory: An Introduction. New York and London: New York University Press. p. 78. ISBN 0-8147-1931-7.)
 
+***
 
 No hay definiciones, ni palabra para decir esto. ¿Privilegio blanco?
 ¿No existe la palabra porque no existe el racismo en España? ¿Aquí no hay supremacía blanca? Aquí empieza el pastiche. El discurso que viene **justo ahora** es una fragmentación de un abanico de opiniones. Es la manera lógica de enfrentarse a un asunto que aún no tiene una respuesta certera. La situación no está localizada exactamente en ningún lugar, aunque quizás sea donde vive Toni Morrison. Abramos el telón. 
