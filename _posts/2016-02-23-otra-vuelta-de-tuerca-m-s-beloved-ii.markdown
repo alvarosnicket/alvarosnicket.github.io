@@ -17,11 +17,12 @@ No hay definiciones, ni palabra para decir esto. ¿Privilegio blanco?
 
 ***
 **BEN**
-Aparqué el coche, salí y me uní a la multitud de manifestantes
-en mi cabeza: "esto es raro...¿debería estar si quiera manifestándome?
-Pienso que si no pueden  ¿cómo respiro?
-Quiero tomar parte en esto porque no somos libres, 
-pero si lo pienso dos veces,  no somos nosotros, (son ellos)
+Aparqué el coche, salí y me uní a la multitud de manifestantes 
+
+ en mi cabeza: "esto es raro...¿debería estar si quiera manifestándome?
+ Pienso que si no pueden  ¿cómo respiro? 
+ Quiero tomar parte en esto porque no somos libres, 
+ pero si lo pienso dos veces,  no somos nosotros, (son ellos)
 
 ¿Estoy desde fuera mirándoles, o estoy desde dentro mirando afuera?
 
@@ -57,10 +58,12 @@ vete a tu casa a ponerle un hashtag a la foto que has hecho hoy en la manifestac
 ¿Así que creen que la policía está discriminando a los negros? 
 ¿Tengo una ventaja por ser blanca? *(se ríe)* no. 
 La gente hoy en día es tan quejica, esta generación se ofende y se enfada por todo. 
+
 **GOSPEL**
 Sangre en las calles, sin justicia, ni paz
 policías, racistas, no pararemos hast...
-**CORO-Un hombre interrumpe**
+
+**CORO**
 JESÚS ERA BLANCO!
 Sí, así se habla!
 No tengo prejuicios solo digo que el 99% de las veces la policía hace bien su trabajo
