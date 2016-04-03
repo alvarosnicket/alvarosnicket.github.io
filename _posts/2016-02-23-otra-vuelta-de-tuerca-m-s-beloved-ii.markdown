@@ -84,7 +84,7 @@ la supremacía blanca es nuestro país, diseñado para que seamos indiferentes
 Queremos vestir como, andar como, hablar como, bailar como...¿morir como? no, no 
 **vivir** como blancos
 
-**PASTOR **
+**PASTOR**
 Si usamos una analogía, es como si hubiera un vecindario y una casa estuviera incendiada. Los bomberos no aparecerían y salvarían todas las casas porque todas las casas importan. Aparecerían y salvarían la casa incendiada 
 porque 
 es
