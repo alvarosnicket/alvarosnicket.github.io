@@ -1,6 +1,6 @@
 ---
 published: true
-title: mustang : la fábrica de esposas 
+title: mustang: la fábrica de esposas 
 layout: post
 ---
 Finalmente pude ver ayer la que me habían vendido como la versión turca de las vírgenes suicidas. Está claro que la comparación es obvia. En ambas las protagonistas son hermanas encerradas en contra de su voluntad. Ambas reflejan de una manera parecida una opresión que nace de un fanatismo religioso (Quizás Mustang en ese sentido sea más "representativa", ya que en Turquía realmente hay un problema muy importante de machismo, y escenas como la de llevar a la futura esposa al doctor cuando no sangra tras consumar la relación la noche de bodas, para ver si efectivamente es virgen; se dan de manera casi normal (unas 50 veces por día en temporada de bodas en un hospital público)). Además casualmente ambas películas son óperas primas de dos directoras jóvenes actuales: Soffia Coppola y Deniz Gamze Ergüven.
