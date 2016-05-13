@@ -3,7 +3,6 @@ published: true
 title: La vida de los animales
 layout: post
 ---
-
 ![alt text](https://www.veganmainstream.com/wp-content/uploads/2014/05/cowspiracy_quote-1024x545.jpg "Logo Title Text 1")
 
 
@@ -27,4 +26,5 @@ bon appétit!
 
 ***
 http://www.cowspiracy.com/facts/
+
 http://tannerlectures.utah.edu/_documents/a-to-z/c/Coetzee99.pdf
