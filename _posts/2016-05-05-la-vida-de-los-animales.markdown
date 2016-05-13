@@ -3,7 +3,8 @@ published: true
 title: La vida de los animales
 layout: post
 ---
-!(https://www.veganmainstream.com/wp-content/uploads/2014/05/cowspiracy_quote-1024x545.jpg)
+
+![alt text](https://www.veganmainstream.com/wp-content/uploads/2014/05/cowspiracy_quote-1024x545.jpg "Logo Title Text 1")
 
 
 En menos de un año, en mi clase de comunicación audiovisual, cinco personas se han hecho vegetarianas. 
