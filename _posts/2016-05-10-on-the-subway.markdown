@@ -3,7 +3,6 @@ published: true
 title: On the subway
 layout: post
 ---
-
 The young man and I face each other.
 His feet are huge, in black sneakers
 laced with white in a complex pattern like a
@@ -40,5 +39,3 @@ fluid, rich as the heart of a seedling
 ready to thrust up into any available light.
 
 — Sharon Olds, from The Gold Cell (1987).
-
-
