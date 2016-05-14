@@ -3,7 +3,6 @@ published: true
 title: Litoral:
 layout: post
 ---
-
 *área de transición entre los sistemas terrestres y los marinos*
 
 
@@ -26,5 +25,3 @@ Los recitativos, la lírica, son lenguajes del pasado. En el pueblo al que llega
 En la obra se muestran todos los extremos posibles. Desde los que no quieren ver a su pasado, hasta los que se agarran a los nombres que recuerdan, o a lo poco que conocen… Y una de las conclusiones que se aportan en este sentido (a parte del equilibrio) es la del relato. A través del relato podemos volver a conocer las cosas. De nuevo una referencia al pasado. Recordar, etimológicamente quiere decir volver a pasar (re) por el corazón (cordis). El final de la obra, es probablemente lo que más relevancia tenga, precisamente porque, como el tiempo, pone cada cosa en su lugar, y reconcilia el lenguaje cinematográfico con el lírico, así como a los personajes entre sí, y al pasado y al presente. Vemos cómo el caballero vuelve a aparecer (ahora sabemos que la historia de Guiromelan se la contaba su padre) y tanto él como el padre de Wilfrid, aceptan la muerte. La otra conclusión que el autor aporta es de nuevo a través de un encuentro. A través el encuentro entre vigilia y sueño; que al fin y al cabo es otra manera de volver a contactar con las personas que ya no están. A lo largo de toda la obra los límites entre qué es y qué no es sueño se han difuminado mucho. El sistema realidad y el sistema sueño, han interactuado y se han cambiado mutuamente, de la misma manera que el sistema marino y sistema terrestre se modifican entre sí en el litoral. 
 
 ***
-
-
